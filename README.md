@@ -2,6 +2,7 @@
 
 ## Author: Ashwini Uppal
 
+AI Generated Custom Multiplayer Quizzes ✨
 https://getsuperquiz.com/
 
 SuperQuiz is a platform for creating, presenting, and participating in quizzes. Whether you're crafting a quiz for educational purposes, a fun competition, or testing subject matter expertise, SuperQuiz offers a flexible and interactive platform to meet your needs.
