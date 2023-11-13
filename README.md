@@ -5,6 +5,16 @@
 AI Generated Custom Multiplayer Quizzes ✨
 https://getsuperquiz.com/
 
+Hello, and welcome to SuperQuiz! I'm Ashwini, the creator of this AI-powered multiplayer quiz app. My journey, rooted in education and the pursuit of simplified technology, has inspired me to build a platform that transcends traditional boundaries.
+From Classroom to Coding
+
+Before stepping into the tech world, I was devoted to educating the next generation. I witnessed firsthand the challenges that teachers faced in incorporating technology into their classrooms. From cumbersome interfaces to a lack of user-friendly tools, the struggle was real, and it resonated with me deeply.
+
+It wasn't just about making technology more accessible; I realized there was an opportunity to create tools that could enhance learning experiences, foster collaboration, and simplify the complexities of tech integration.
+
+SuperQuiz was born out of a desire to bridge the technology gap in education, but its potential reaches far and wide. From educators crafting interactive quizzes to businesses seeking team-building activities, to families looking for a fun way to connect, this platform offers something for everyone.
+
+
 SuperQuiz is a platform for creating, presenting, and participating in quizzes. Whether you're crafting a quiz for educational purposes, a fun competition, or testing subject matter expertise, SuperQuiz offers a flexible and interactive platform to meet your needs.
 
 You can create quizzes in SuperQuiz by pasting your own text. SuperQuiz uses AI to extract relevant questions, allowing you to add, remove, or edit questions and the options within those questions to suit your preferences. 
