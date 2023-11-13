@@ -27,12 +27,18 @@ My vision for SuperQuiz is about building connections, enhancing learning, and c
 
 
 
-<img width="1000" alt="image" src="https://github.com/ashuppal/SuperQuiz/assets/90730785/b815c12a-1654-4217-a45e-46aa3487477d">
-<img width="1440" alt="image" src="https://github.com/ashuppal/SuperQuiz/assets/90730785/8a059026-1dc5-4ec0-9bb8-8ac874130e00">
-<img width="1440" alt="image" src="https://github.com/ashuppal/SuperQuiz/assets/90730785/a9eb74b3-e477-46d5-8f13-3446a1a35580">
-<img width="1435" alt="image" src="https://github.com/ashuppal/SuperQuiz/assets/90730785/5ddbed74-a5a9-4254-a8ce-ca266e0a87c5">
-<img width="1440" alt="image" src="https://github.com/ashuppal/SuperQuiz/assets/90730785/c3cf2081-d1e1-480e-9426-588845ffe8b3">
+## Screenshots
+
+![App Screenshot](./images/1.png)
+
+![App Screenshot](./images/2.png)
+
+![App Screenshot](./images/3.png)
+
+![App Screenshot](./images/4.png)
 
 
+![App Screenshot](./images/5.png)
 
 
+![App Screenshot](./images/6.png)
